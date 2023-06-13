@@ -2,21 +2,6 @@
   
 <h2>About Me:</h2>
 <p>Hi, I'm a Business Intelligence working at i'SUPPLY.</p>
-<table align="center">
-  <tr>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://github.com/girlscript/winter-of-contributing">GWOC'21</a></td>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <a href="https://github.com/Hack-Club-SRM/HCSSoC">HCSSOC'21</a> </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚀 Contributor at <a href="https://github.com/DevIncept">DCP'21</a> </td>
-   <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Maintainer & Contributor at <a href="https://hacktoberfest.com/">Hacktoberfest'21</a> </td>
-   <td style="border-right: 1px solid #eeeeef;" align="center"> 💻 Contributor at <a href="https://gssoc.girlscript.tech/">GSSOC'22</a> </td>
-   <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://verification.givemycertificate.com/v/5b8c96f3-d735-49a8-8d91-f4b34f8d5db3">Codeflow'22</a></td>
-   <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Project Maintainer at <a href="https://soc.hackclubrait.co/#/Home">HSOC'22</a></td>
-    <td style="border-right: 1px solid #eeeeef;" align="center"> 🚩 Maintainer at <a href="https://github.com/pranjay-poddar/Dev-Geeks">Hacktoberfest'22</a> </td>
-  </tr>
-</table>
-
-<h2>Blog Posts:</h2>
-<p>I'm a technical blogger and developer who loves to help others in the development community. I write technical blog posts and share them on my website and on Medium.If you have any questions or need help with anything, feel free to reach out to me on Twitter.</p>
 
 <h2>Tools And Technologies:</h2>
 <p align="center">
