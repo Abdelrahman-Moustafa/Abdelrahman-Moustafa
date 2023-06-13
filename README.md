@@ -1,7 +1,7 @@
-<h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
+<h2>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
   
 <h2>About Me:</h2>
-<p>Hi, I'm a Software Engineer working at Paypal as SDE-1. I'm passionate about open source development, web development, web designing, data structures & algorithms, competitive programming and graphic designing. I have a keen interest in full-stack and software development and I love developing softwares, websites, and web apps. I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on GitHub and collaborate with others in the open source community.</p>
+<p>Hi, I'm a Business Intelligence working at i'SUPPLY.</p>
 <table align="center">
   <tr>
     <td style="border-right: 1px solid #eeeeef;" align="center"> 🌟 Mentor at <a href="https://github.com/girlscript/winter-of-contributing">GWOC'21</a></td>
