@@ -1,21 +1,5 @@
 <h2>Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
- <p align='center'>
- <a href="https://pranjaypoddar.tech/"><img src="./intro2.gif" width="800" title="hover text"></a>
-  </p>
-  <p align='center'>
-  <b><i>Let's connect! Find me on the web.</i></b>
-  </p>
   
-  <p align='center'>
-<a href="https://www.linkedin.com/in/pranjay-poddar/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/linkedin.png?raw=true"></a>
- <a href="https://www.hackerrank.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/hackerrank.png?raw=true"></a>
-<a href="https://www.behance.net/pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/behance.png?raw=true"></a>
-<a href="https://twitter.com/PranjayPoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/twitter.png?raw=true"></a>
-<a href="https://instagram.com/pranjay_poddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/instagram.png?raw=true"></a>
-<a href="https://medium.com/@pranjaypoddar"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/medium.png?raw=true"></a>
-<a href="https://www.youtube.com/catalyticoriginals"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/youtube.png?raw=true"></a>
-</p>
-
 <h2>About Me:</h2>
 <p>Hi, I'm a Software Engineer working at Paypal as SDE-1. I'm passionate about open source development, web development, web designing, data structures & algorithms, competitive programming and graphic designing. I have a keen interest in full-stack and software development and I love developing softwares, websites, and web apps. I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on GitHub and collaborate with others in the open source community.</p>
 <table align="center">
