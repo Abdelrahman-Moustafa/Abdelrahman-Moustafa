@@ -11,7 +11,8 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
- <img alt="Power BI" src="https://img.shields.io/badge/Power BI-%23039BE5.svg?&style=for-the-badge&logo=power bi&logoColor=yellow"/>
+<img alt="Power BI" src="https://img.shields.io/badge/Power BI-%23039BE5.svg?&style=for-the-badge&logo=power bi&logoColor=yellow"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>
  </p>
  <br>
  
