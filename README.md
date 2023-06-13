@@ -16,6 +16,6 @@
  </p>
  <br>
  
-//<h2>Certifications:</h2>
+<!--<h2>Certifications:</h2>
 //<p align="center">
- <a href="https://www.cloudskillsboost.google/public_profiles/b65c844e-db7a-4027-b7ee-1fef7d372144"><img alt="Google Cloud Badges" src="https://img.shields.io/badge/Google Cloud Badges-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/b65c844e-db7a-4027-b7ee-1fef7d372144"><img alt="Google Cloud Badges" src="https://img.shields.io/badge/Google Cloud Badges-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>-->
