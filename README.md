@@ -1,7 +1,4 @@
 <h1 align="center">Hello! 👋 My Name is Abdelrahman, Welcome To My Github Profile</h1>
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Abdelrahman 👋 I'm a Business Intelligence 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Abdelrahman Moustafa from Egypt. I'm a Business Intelligence, working at i'SUPPLY.</h4>
